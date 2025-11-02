@@ -1,0 +1,222 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Vocabulary Flashcards</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root{
+        --bg: #F6FFF8;
+        --avocado1: #A3C293;
+        --avocado2: #7FB07A;
+        --card-front:#EAF6EA;
+        --card-back:#D4EDD6;
+        --text:#1b2320;
+      }
+      body{
+        font-family: Inter, Arial, sans-serif;
+        background:var(--bg);
+        color:var(--text);
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        min-height:100vh;
+        margin:0;
+        padding:12px;
+      }
+      .app{width:100%; max-width:920px;}
+      header{display:flex; flex-wrap:wrap; gap:8px; align-items:center; justify-content:space-between; margin-bottom:16px;}
+      h1{margin:0; font-size:20px; color:#234d20;}
+      .controls{display:flex; flex-wrap:wrap; gap:8px; align-items:center;}
+      select, button{padding:8px 10px; border-radius:8px; border:1px solid #cfe7d1; background:white;}
+      .card-wrap{perspective:1200px; width:100%; max-width:480px; height:280px; margin:20px auto; position:relative;}
+      .card{
+        width:100%; height:100%; position:relative;
+        transition:transform .6s;
+        cursor:pointer; border-radius:14px;
+        box-shadow:0 10px 30px rgba(0,0,0,0.08); overflow:hidden;
+      }
+      .card.flipped .front{display:none;}
+      .card.flipped .back{display:flex;}
+
+      .face{
+        position:absolute; inset:0; display:flex;
+        flex-direction:column; align-items:center; justify-content:center;
+        padding:20px; box-sizing:border-box;
+        border-radius:14px;
+      }
+      .front{background:linear-gradient(180deg,var(--card-front),#f0fbf0);}
+      .back{
+        background:linear-gradient(180deg,#f0fbf0,var(--card-back));
+        display:none;
+        text-align:center;
+      }
+
+      .word{font-size:28px; font-weight:700; margin-bottom:6px;}
+      .phonetic{font-size:14px; opacity:0.8; margin-bottom:12px;}
+      .meaning{font-size:18px;}
+      .example{margin-top:12px; font-size:14px; color:#334;}
+      .nav{display:flex; gap:8px; justify-content:center; margin-top:12px;}
+      .meta{font-size:13px; opacity:0.8;}
+      .list{max-height:240px; overflow:auto; padding:8px; border-radius:8px; background:white; border:1px solid #e6f0e9;}
+      footer{margin-top:20px; font-size:13px; color:#666;}
+      @media (max-width:700px){
+        main{flex-direction:column !important;}
+        aside{width:100% !important;}
+        .card-wrap{height:240px;}
+        .word{font-size:24px;}
+        .meaning{font-size:16px;}
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" class="app"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/react@18/umd/react.development.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@babel/standalone@7.22.10/babel.min.js"></script>
+
+    <script type="text/babel">
+      const {useState, useEffect, useRef} = React;
+
+      function App(){
+        const [data, setData] = useState({});
+        const [days, setDays] = useState([]);
+        const [currentDay, setCurrentDay] = useState("");
+        const [index, setIndex] = useState(0);
+        const [flipped, setFlipped] = useState(false);
+        const [voices, setVoices] = useState([]);
+        const [selectedVoice, setSelectedVoice] = useState("");
+        const synthRef = useRef(window.speechSynthesis);
+
+        useEffect(()=>{
+          fetch('vocabulary.json')
+            .then(r => r.json())
+            .then(j => {
+              setData(j);
+              const keys = Object.keys(j);
+              setDays(keys);
+              setCurrentDay(keys[0] || "");
+            })
+            .catch(err => console.error("Failed to load vocabulary.json", err));
+        },[]);
+
+        useEffect(()=>{
+          function loadVoices(){
+            const v = window.speechSynthesis.getVoices();
+            setVoices(v);
+            if(v.length && !selectedVoice){
+              // Ưu tiên giọng Anh-Mỹ nếu có
+              const preferred = v.find(x => x.lang === 'en-US' && /Samantha|Google US English/i.test(x.name))
+                || v.find(x => x.lang === 'en-US')
+                || v.find(x => x.lang === 'en-GB')
+                || v.find(x => x.lang.startsWith('en'))
+                || v[0];
+              if(preferred) setSelectedVoice(preferred.name);
+            }
+          }
+          loadVoices();
+          window.speechSynthesis.onvoiceschanged = loadVoices;
+        },[]);
+
+        const list = data[currentDay] || [];
+        const card = list[index] || null;
+
+        function next(){ setFlipped(false); setIndex(i => (list.length? Math.min(i+1, list.length-1):0)); }
+        function prev(){ setFlipped(false); setIndex(i => (list.length? Math.max(i-1, 0):0)); }
+        function random(){ setFlipped(false); setIndex(Math.floor(Math.random()*list.length)); }
+
+        function speak(text){
+          if(!text) return;
+          const utter = new SpeechSynthesisUtterance(text);
+          const v = voices.find(v => v.name === selectedVoice);
+          if(v) utter.voice = v;
+          utter.rate = 0.95;
+          utter.pitch = 1;
+          window.speechSynthesis.cancel();
+          window.speechSynthesis.speak(utter);
+        }
+
+        useEffect(()=>{ setIndex(0); setFlipped(false); }, [currentDay]);
+
+        return (
+          <div>
+            <header>
+              <h1>Vocabulary Flashcards</h1>
+              <div className="controls">
+                <label className="meta">Day:</label>
+                <select value={currentDay} onChange={e=>setCurrentDay(e.target.value)}>
+                  {days.map(d=> <option key={d} value={d}>{d}</option>)}
+                </select>
+
+                <label className="meta">Voice:</label>
+                <select value={selectedVoice} onChange={e=>setSelectedVoice(e.target.value)}>
+                  {voices.map(v=> (
+                    <option key={v.name} value={v.name}>{v.name} ({v.lang})</option>
+                  ))}
+                </select>
+
+                <button onClick={random}>Shuffle</button>
+              </div>
+            </header>
+
+            <main>
+              <div style={{display:'flex', gap:20, alignItems:'flex-start'}}>
+                <div style={{flex:1}}>
+                  <div className="card-wrap">
+                    <div className={"card "+(flipped?"flipped":"")} onClick={()=>setFlipped(f=>!f)}>
+                      <div className="face front">
+                        {card ? <>
+                          <div className="word">{card.word}</div>
+                          <div className="phonetic">{card.phonetic} {card.type? "• "+card.type:""}</div>
+                          <div style={{display:'flex', gap:8}}>
+                            <button onClick={(ev)=>{ev.stopPropagation(); speak(card.word);}}>🔊</button>
+                          </div>
+                        </> : <div>Loading...</div>}
+                      </div>
+
+                      <div className="face back">
+                        {card ? <>
+                          <div className="meaning">{card.meaning}</div>
+                          <div className="example"><i>{card.example}</i></div>
+                        </> : <div></div>}
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="nav">
+                    <button onClick={prev}>Prev</button>
+                    <div style={{padding:'8px 12px', borderRadius:8, background:'white', border:'1px solid #e6f0e9'}}>{index+1} / {list.length}</div>
+                    <button onClick={next}>Next</button>
+                  </div>
+                </div>
+
+                <aside style={{width:300}}>
+                  <div style={{marginBottom:8}} className="meta">Word list</div>
+                  <div className="list">
+                    {list.map((it,i)=>(
+                      <div key={i} style={{padding:8, borderBottom:'1px solid #f1f6f1', cursor:'pointer'}}
+                        onClick={()=>{setIndex(i); setFlipped(false);}}>
+                        <strong>{it.word}</strong>
+                        <div style={{fontSize:12, opacity:0.8}}>{it.meaning}</div>
+                      </div>
+                    ))}
+                  </div>
+                </aside>
+              </div>
+            </main>
+
+            <footer>
+              <div style={{display:'flex', justifyContent:'space-between', marginTop:12}}>
+                <div className="meta">Click card to flip • Click 🔊 to hear • Voice selector ensures accurate accent</div>
+                <div><a href="vocabulary.json" download>Download vocabulary.json</a></div>
+              </div>
+            </footer>
+          </div>
+        );
+      }
+
+      ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+    </script>
+  </body>
+</html>

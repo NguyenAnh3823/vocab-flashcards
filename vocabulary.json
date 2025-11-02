@@ -1,0 +1,2245 @@
+{
+  "Day 1": [
+    {
+      "word": "Hold",
+      "phonetic": "/hould/",
+      "type": "v",
+      "meaning": "Cầm (nắm), tổ chức",
+      "example": "A woman is holding some containers."
+    },
+    {
+      "word": "Arrange",
+      "phonetic": "/ə'reınd3/",
+      "type": "v",
+      "meaning": "Sắp xếp",
+      "example": "The chairs have been arranged in rows."
+    },
+    {
+      "word": "Point",
+      "phonetic": "/point/",
+      "type": "v",
+      "meaning": "Chỉ (ra)",
+      "example": "One of the men is pointing at a document."
+    },
+    {
+      "word": "Reach",
+      "phonetic": "/ri:tf/",
+      "type": "v",
+      "meaning": "Với tới",
+      "example": "A customer is reaching for some merchandise."
+    },
+    {
+      "word": "Adjust",
+      "phonetic": "/ə'dzʌst/",
+      "type": "v",
+      "meaning": "Điều chỉnh",
+      "example": "A band member is adjusting a microphone."
+    },
+    {
+      "word": "Pass",
+      "phonetic": "/pæs/",
+      "type": "v",
+      "meaning": "Băng qua",
+      "example": "A ship is passing under the bridge."
+    },
+    {
+      "word": "Load",
+      "phonetic": "/load/",
+      "type": "v",
+      "meaning": "Tải (chất hàng)",
+      "example": "She's loading a box into a vehicle."
+    },
+    {
+      "word": "Occupied",
+      "phonetic": "/'a:kjupaid/",
+      "type": "adj",
+      "meaning": "Đầy (chật kín)",
+      "example": "The chairs are not occupied."
+    },
+    {
+      "word": "Bend",
+      "phonetic": "/bend/",
+      "type": "v",
+      "meaning": "Cúi xuống",
+      "example": "A woman is bending down to read a label."
+    },
+    {
+      "word": "Lean",
+      "phonetic": "/li:n/",
+      "type": "v",
+      "meaning": "Dựa, tựa",
+      "example": "He is leaning against the wall."
+    },
+    {
+      "word": "Park",
+      "phonetic": "/pa:rk/",
+      "type": "v",
+      "meaning": "Đỗ xe",
+      "example": "Cars are parked along the street."
+    },
+    {
+      "word": "Throw away",
+      "phonetic": "/'eroซǝwer/",
+      "type": "phr",
+      "meaning": "Ném đi",
+      "example": "The woman's throwing something away."
+    },
+    {
+      "word": "Pack",
+      "phonetic": "/pæk/",
+      "type": "v",
+      "meaning": "Đóng gói (hành lý)",
+      "example": "Some men are packing their suitcases."
+    },
+    {
+      "word": "Overlook",
+      "phonetic": "/  vərไซk/",
+      "type": "v",
+      "meaning": "Nhìn hướng ra",
+      "example": "Buildings are overlooking the water."
+    },
+    {
+      "word": "Travel",
+      "phonetic": "/'trævl/",
+      "type": "v",
+      "meaning": "Đi lại, du lịch",
+      "example": "The vehicles are all travelling in the same direction."
+    },
+    {
+      "word": "Fill",
+      "phonetic": "$|fz|/",
+      "type": "v",
+      "meaning": "Đổ đầy",
+      "example": "She's filling up a cup."
+    },
+    {
+      "word": "Inspect",
+      "phonetic": "/ın'spekt/",
+      "type": "v",
+      "meaning": "Thanh tra",
+      "example": "She's inspecting an item for sale."
+    },
+    {
+      "word": "Trim",
+      "phonetic": "/trım/",
+      "type": "v",
+      "meaning": "Cắt tỉa",
+      "example": "Some workers are trimming the trees."
+    },
+    {
+      "word": "Pave",
+      "phonetic": "/perv/",
+      "type": "v",
+      "meaning": "Lát (đường)",
+      "example": "A road crew is paving a street."
+    },
+    {
+      "word": "Assemble",
+      "phonetic": "/ə'sembl/",
+      "type": "v",
+      "meaning": "Lắp ráp",
+      "example": "A set of drums has been assembled."
+    },
+    {
+      "word": "Sail",
+      "phonetic": "/seil/",
+      "type": "v",
+      "meaning": "Trèo (thuyền), ra khơi",
+      "example": "Some boats are sailing on the water."
+    },
+    {
+      "word": "Mow",
+      "phonetic": "/moซ/",
+      "type": "v",
+      "meaning": "Xén (cỏ)",
+      "example": "He's mowing the grass between the trees."
+    },
+    {
+      "word": "Shade",
+      "phonetic": "/Seid/",
+      "type": "v",
+      "meaning": "Che bóng",
+      "example": "The chairs are shaded by umbrellas."
+    },
+    {
+      "word": "Perform",
+      "phonetic": "/pər'fo:rm/",
+      "type": "v",
+      "meaning": "Biểu diễn, tiến hành",
+      "example": "People are performing under a tent."
+    },
+    {
+      "word": "Transport",
+      "phonetic": "/'trænsport/",
+      "type": "v",
+      "meaning": "Vận tải",
+      "example": "Some materials are being transported on a forklift."
+    },
+    {
+      "word": "Shop",
+      "phonetic": "/fa:p/",
+      "type": "v",
+      "meaning": "Mua sắm",
+      "example": "Some people are shopping for food."
+    },
+    {
+      "word": "Pour",
+      "phonetic": "/pɔ:r/",
+      "type": "v",
+      "meaning": "Rót",
+      "example": "One of the women is pouring some water."
+    },
+    {
+      "word": "Face",
+      "phonetic": "/fers/",
+      "type": "v",
+      "meaning": "Đối mặt",
+      "example": "They are facing each other."
+    },
+    {
+      "word": "Copy",
+      "phonetic": "/'ka:pi/",
+      "type": "v",
+      "meaning": "Sao chép",
+      "example": "A woman is copying some papers."
+    },
+    {
+      "word": "Surround",
+      "phonetic": "/sə'raʊnd/",
+      "type": "v",
+      "meaning": "Bao quanh",
+      "example": "A round table is surrounded by chairs."
+    },
+    {
+      "word": "Tow",
+      "phonetic": "/toʊ/",
+      "type": "v",
+      "meaning": "Kéo đi",
+      "example": "A truck is being towed."
+    },
+    {
+      "word": "Wear",
+      "phonetic": "/wer/",
+      "type": "v",
+      "meaning": "Mặc",
+      "example": "The men are wearing a tool belt."
+    },
+    {
+      "word": "Rake",
+      "phonetic": "/reik/",
+      "type": "v",
+      "meaning": "Cào",
+      "example": "Fallen leaves have been raked into piles."
+    },
+    {
+      "word": "Place",
+      "phonetic": "/plers/",
+      "type": "v",
+      "meaning": "Đặt",
+      "example": "He's placing a bottle on a counter."
+    },
+    {
+      "word": "Line",
+      "phonetic": "/laın/",
+      "type": "v",
+      "meaning": "Xếp hàng",
+      "example": "Pieces of luggage are lined up on the pavement."
+    },
+    {
+      "word": "Plug in",
+      "phonetic": "/plʌ-/",
+      "type": "phr",
+      "meaning": "Cắm phích",
+      "example": "A cord is being plugged in."
+    },
+    {
+      "word": "Cross",
+      "phonetic": "/krɔ's/",
+      "type": "v",
+      "meaning": "Băng qua",
+      "example": "People are crossing the street."
+    },
+    {
+      "word": "Hang",
+      "phonetic": "/hæŋ/",
+      "type": "v",
+      "meaning": "Treo",
+      "example": "They’re hanging some clothes on a rack."
+    },
+    {
+      "word": "Distribute",
+      "phonetic": "/'dIstrIbju:t/",
+      "type": "v",
+      "meaning": "Phân phối",
+      "example": "A man is distributing some books."
+    },
+    {
+      "word": "Fold",
+      "phonetic": "/foυld/",
+      "type": "v",
+      "meaning": "Gập",
+      "example": "They’re folding up a tent."
+    },
+    {
+      "word": "Reflect",
+      "phonetic": "/rI'flekt/",
+      "type": "v",
+      "meaning": "Phản ánh",
+      "example": "A woman is reflected in the mirror."
+    },
+    {
+      "word": "Address",
+      "phonetic": "/ə#dres/",
+      "type": "v",
+      "meaning": "(ưa ra bài diễn văn",
+      "example": "He’s addressing his colleagues."
+    },
+    {
+      "word": "Operate",
+      "phonetic": "/#a'pəreIt/",
+      "type": "v",
+      "meaning": "Vận hành, hoạt 1ộng",
+      "example": "He’s operating some factory machinery."
+    },
+    {
+      "word": "Stop",
+      "phonetic": "/sta'p/",
+      "type": "v",
+      "meaning": "Ngừng lại",
+      "example": "Traffic is stopped at a crosswalk."
+    },
+    {
+      "word": "Clap",
+      "phonetic": "/klæp/",
+      "type": "v",
+      "meaning": "Vỗ tay",
+      "example": "An audience is clapping for some musicians."
+    },
+    {
+      "word": "Kneel",
+      "phonetic": "/ni'l/",
+      "type": "v",
+      "meaning": "Qùy gối",
+      "example": "One of the men is kneeling on the ground."
+    },
+    {
+      "word": "Stroll",
+      "phonetic": "/stroυl/",
+      "type": "v",
+      "meaning": "Tản bộ",
+      "example": "Pedestrians are strolling beside a riverbank."
+    }
+  ],
+  "Day 2": [
+    {
+      "word": "Pile",
+      "phonetic": "/paIl/",
+      "type": "v",
+      "meaning": "Xếp chồng",
+      "example": "Some newspapers have been piled on the floor."
+    },
+    {
+      "word": "Store",
+      "phonetic": "/stɔ'r/",
+      "type": "v",
+      "meaning": "Lưu trữ",
+      "example": "Some men are storing luggage above their seats."
+    },
+    {
+      "word": "Roll",
+      "phonetic": "/roυl/",
+      "type": "v",
+      "meaning": "Cuộn",
+      "example": "The carpet has been rolled up in the corner."
+    },
+    {
+      "word": "Serve",
+      "phonetic": "/sɜ'rv/",
+      "type": "v",
+      "meaning": "Phục vụ",
+      "example": "Waiters are serving beverages to the customers."
+    },
+    {
+      "word": "Board",
+      "phonetic": "/bɔ'rd/",
+      "type": "v",
+      "meaning": "Bước lên (tàu, thuyền, máy bay)",
+      "example": "Passengers are boarding a bus."
+    },
+    {
+      "word": "Frame",
+      "phonetic": "/freIm/",
+      "type": "v",
+      "meaning": "(óng khung (ảnh)",
+      "example": "They are framing pictures."
+    },
+    {
+      "word": "Bow",
+      "phonetic": "/baυ/",
+      "type": "v",
+      "meaning": "Cúi 1ầu",
+      "example": "A performer is bowing before an audience."
+    },
+    {
+      "word": "Push",
+      "phonetic": "/pυʃ/",
+      "type": "v",
+      "meaning": "(ẩy, bấm nút",
+      "example": "A woman is pushing a shopping cart."
+    },
+    {
+      "word": "Display",
+      "phonetic": "/dI#spleI/",
+      "type": "v",
+      "meaning": "Trưng bày, triển lãm",
+      "example": "Garments are being displayed."
+    },
+    {
+      "word": "Extend",
+      "phonetic": "/Ik#stend/",
+      "type": "v",
+      "meaning": "Kéo dài, mỏ rộng",
+      "example": "An awning extends over a shop entrance."
+    },
+    {
+      "word": "Cook",
+      "phonetic": "/kυk/",
+      "type": "v",
+      "meaning": "Nấu ăn",
+      "example": "A man is cooking a meal on the stove."
+    },
+    {
+      "word": "Sip",
+      "phonetic": "/sIp/",
+      "type": "v",
+      "meaning": "Nhấm nháp",
+      "example": "A woman is sipping a cup of coffee."
+    },
+    {
+      "word": "Work on",
+      "phonetic": "/wɜ'rk/",
+      "type": "phr",
+      "meaning": "Làm việc trên, sửa chữa",
+      "example": "He is working on the tire."
+    },
+    {
+      "word": "Wind",
+      "phonetic": "/wInd/",
+      "type": "v",
+      "meaning": "Lượn, uốn khúc",
+      "example": "A busy street winds through a garden."
+    },
+    {
+      "word": "Browse",
+      "phonetic": "/braυz/",
+      "type": "v",
+      "meaning": "Lướt qua, xem qua",
+      "example": "The woman is browsing through some magazines."
+    },
+    {
+      "word": "Lie",
+      "phonetic": "/laI/",
+      "type": "v",
+      "meaning": "Nằm",
+      "example": "A ladder is lying on the ground."
+    },
+    {
+      "word": "Wrap",
+      "phonetic": "/ræp/",
+      "type": "v",
+      "meaning": "Bọc, gói (quà, 1ồ)",
+      "example": "A man is wrapping some merchandise."
+    },
+    {
+      "word": "Exercise",
+      "phonetic": "/#eksərsaIz/",
+      "type": "v",
+      "meaning": "Luyện tập, tập thể dục",
+      "example": "Some people are exercising in a park."
+    },
+    {
+      "word": "Border",
+      "phonetic": "/#bɔ'rdər/",
+      "type": "v",
+      "meaning": "Bao quanh",
+      "example": "Railings border the river."
+    },
+    {
+      "word": "Set up",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Thiết lập, cài 1ặt",
+      "example": "A man is setting up a podium."
+    },
+    {
+      "word": "Spread",
+      "phonetic": "/spred/",
+      "type": "v",
+      "meaning": "Trải ra",
+      "example": "Towels have been spread out on the sand."
+    },
+    {
+      "word": "Wipe",
+      "phonetic": "/waIp/",
+      "type": "v",
+      "meaning": "Lau chùi, làm sạch",
+      "example": "A woman is wiping off a counter."
+    },
+    {
+      "word": "Dine",
+      "phonetic": "/daIn/",
+      "type": "v",
+      "meaning": "Ăn uống, dùng bữa",
+      "example": "They are dining at a restaurant."
+    },
+    {
+      "word": "Stock",
+      "phonetic": "/sta'k/",
+      "type": "v",
+      "meaning": "Tích trữ",
+      "example": "The office is stocked with supplies."
+    },
+    {
+      "word": "Fasten",
+      "phonetic": "/#fæsn/",
+      "type": "v",
+      "meaning": "Thắt chặt, buộc chặt",
+      "example": "Equipment is being fastened to the roof of a car."
+    },
+    {
+      "word": "Exchange",
+      "phonetic": "/Iks#tʃeIndʒ/",
+      "type": "v",
+      "meaning": "Trao 1ổi",
+      "example": "They are exchanging business cards."
+    },
+    {
+      "word": "Take notes",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Ghi chú, ghi chép",
+      "example": "A woman is taking notes on a board."
+    },
+    {
+      "word": "Full",
+      "phonetic": "/fυl/",
+      "type": "adj",
+      "meaning": "(ầy",
+      "example": "The closet is full of boxes."
+    },
+    {
+      "word": "Lift",
+      "phonetic": "/lIft/",
+      "type": "v",
+      "meaning": "Nâng lên",
+      "example": "A machine is lifting bags onto a shelf."
+    },
+    {
+      "word": "Run",
+      "phonetic": "/rʌn/",
+      "type": "v",
+      "meaning": "Chạy",
+      "example": "A high wall runs alongside the train tracks."
+    },
+    {
+      "word": "Sew",
+      "phonetic": "/soυ/",
+      "type": "v",
+      "meaning": "Khâu, may vá",
+      "example": "The women are sewing some clothing."
+    },
+    {
+      "word": "Put away",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Cất giữ",
+      "example": "Vendors are putting away their displays."
+    },
+    {
+      "word": "Spray",
+      "phonetic": "/spreI/",
+      "type": "v",
+      "meaning": "Xịt",
+      "example": "The fountain is spraying water into the air."
+    },
+    {
+      "word": "Enter",
+      "phonetic": "/#entər/",
+      "type": "v",
+      "meaning": "Nhập (mã số…), vào cửa",
+      "example": "A woman is entering numbers on a keypad."
+    },
+    {
+      "word": "Move",
+      "phonetic": "/mu'v/",
+      "type": "v",
+      "meaning": "Di chuyển",
+      "example": "They’re moving a piece of furniture."
+    },
+    {
+      "word": "Check",
+      "phonetic": "/tʃek/",
+      "type": "v",
+      "meaning": "Kiểm tra",
+      "example": "The doctor is checking the boy’s eyes."
+    },
+    {
+      "word": "Climb",
+      "phonetic": "/klaIm/",
+      "type": "v",
+      "meaning": "Leo, trèo",
+      "example": "They are climbing some steps."
+    },
+    {
+      "word": "Row",
+      "phonetic": "/roυ/",
+      "type": "v",
+      "meaning": "Trèo (thuyền)",
+      "example": "The man is rowing a boat across the harbor."
+    },
+    {
+      "word": "Exit",
+      "phonetic": "/#e-zIt/",
+      "type": "v",
+      "meaning": "Ra khỏi",
+      "example": "People are exiting a theater."
+    },
+    {
+      "word": "Mount",
+      "phonetic": "/maυnt/",
+      "type": "v",
+      "meaning": "Gắn lên, treo lên",
+      "example": "Some paintings have been mounted on the wall."
+    },
+    {
+      "word": "Be seated",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Ngồi",
+      "example": "Some diners are seated across from each other."
+    },
+    {
+      "word": "Dock",
+      "phonetic": "/da'k/",
+      "type": "v",
+      "meaning": "Cập bến, cảng",
+      "example": "Some boats are docked at a pier."
+    },
+    {
+      "word": "Put up",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Lắp 1ặt, dựng lên",
+      "example": "She is putting up a shelf."
+    },
+    {
+      "word": "Cast",
+      "phonetic": "/ka:st/",
+      "type": "v",
+      "meaning": "Ngả, 1ổ (bóng)",
+      "example": "Some trees are casting shadows on a path."
+    },
+    {
+      "word": "Fall",
+      "phonetic": "/fɔ'l/",
+      "type": "v",
+      "meaning": "(ổ, ngã",
+      "example": "A stool has fallen over on the ground."
+    },
+    {
+      "word": "Outdoors",
+      "phonetic": "/,aυt#dɔ'rz/",
+      "type": "adv",
+      "meaning": "Ngoài trời",
+      "example": "He is reading a book outdoors."
+    }
+  ],
+  "Day 3": [
+    {
+      "word": "Responsible",
+      "phonetic": "/rI#spa'nsəbl/",
+      "type": "adj",
+      "meaning": "Chịu trách nhiệm",
+      "example": "Who’s responsible for sending the invitationsJ"
+    },
+    {
+      "word": "Utility",
+      "phonetic": "/ju'#tIləti/",
+      "type": "n",
+      "meaning": "Tiện ích",
+      "example": "Our utility bill is a lot higher this month, isn’t itJ."
+    },
+    {
+      "word": "Status",
+      "phonetic": "/#steItəs/",
+      "type": "n",
+      "meaning": "Trạng thái",
+      "example": "What is the status of this billJ"
+    },
+    {
+      "word": "Session",
+      "phonetic": "/#seʃn/",
+      "type": "n",
+      "meaning": "Buổi, phiên (họp, 1ào tạo)",
+      "example": "The training session will last about three hours."
+    },
+    {
+      "word": "Schedule",
+      "phonetic": "/#skedʒu'l/",
+      "type": "v",
+      "meaning": "Lên lịch trình",
+      "example": "I’ll schedule an appointment."
+    },
+    {
+      "word": "Revise",
+      "phonetic": "/rI#vaIz/",
+      "type": "v",
+      "meaning": "Chỉnh sửa",
+      "example": "Who’s working on revising the reportJ"
+    },
+    {
+      "word": "Interview",
+      "phonetic": "/#Intərvju'/",
+      "type": "n",
+      "meaning": "Phỏng vấn",
+      "example": "I have a job interview with the local newspaper."
+    },
+    {
+      "word": "Local",
+      "phonetic": "/#loυkl/",
+      "type": "adj",
+      "meaning": "(ịa phương, trong vùng",
+      "example": "In the local newspaper."
+    },
+    {
+      "word": "Projection",
+      "phonetic": "/prə#dʒekʃn/",
+      "type": "n",
+      "meaning": "Sự 1ặt kế hoạch, dự kiến",
+      "example": "Why were the latest sales projections revisedJ"
+    },
+    {
+      "word": "Cost",
+      "phonetic": "/kɔ'st/",
+      "type": "v",
+      "meaning": "Tính phí, giá",
+      "example": "How much does this desk costJ"
+    },
+    {
+      "word": "Make it",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Làm 1ược, thực hiện 1ược",
+      "example": "I’m sorry, but I can’t make it."
+    },
+    {
+      "word": "Add",
+      "phonetic": "/æd/",
+      "type": "v",
+      "meaning": "Thêm vào, bổ sung",
+      "example": "Why are you adding more training sessionsJ"
+    },
+    {
+      "word": "Manage",
+      "phonetic": "/#mænIdʒ/",
+      "type": "v",
+      "meaning": "Quản lý, xoay xở",
+      "example": "You manage this apartment complex, don’t youJ."
+    },
+    {
+      "word": "Deadline",
+      "phonetic": "/#dedlaIn/",
+      "type": "n",
+      "meaning": "Hạn chót",
+      "example": "We have a deadline to meet."
+    },
+    {
+      "word": "Get to",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "(i tới",
+      "example": "How long does it take for you to get to workJ"
+    },
+    {
+      "word": "Depend on",
+      "phonetic": "/dI#pend/",
+      "type": "phr",
+      "meaning": "Phụ thuộc",
+      "example": "It depends on the price."
+    },
+    {
+      "word": "Supply",
+      "phonetic": "/sə#plaI/",
+      "type": "n",
+      "meaning": "Thiết bị",
+      "example": "Why did order more office suppliesJ"
+    },
+    {
+      "word": "Agreement",
+      "phonetic": "/ə#-ri'mənt/",
+      "type": "n",
+      "meaning": "Hợp 1ồng",
+      "example": "Should we get the changes to this agreement in writingJ"
+    }
+  ],
+  "Day 4": [
+    {
+      "word": "Organize",
+      "phonetic": "/#ɔ'r-ənaIz/",
+      "type": "",
+      "meaning": "Tổ chức, sắp xếp",
+      "example": "Didn’t you organize the employee picnic last yearJ"
+    },
+    {
+      "word": "Process",
+      "phonetic": "/#proυses/",
+      "type": "v, n",
+      "meaning": "Xử lý, quy trình",
+      "example": "I processed his forms this morning."
+    },
+    {
+      "word": "Consult",
+      "phonetic": "/kən#sʌlt/",
+      "type": "v",
+      "meaning": "Xin sự tư vấn (lời khuyên)",
+      "example": "We may want to consult some experts."
+    },
+    {
+      "word": "Challenging",
+      "phonetic": "/#tʃælIndʒIŋ/",
+      "type": "adj",
+      "meaning": "Khó khăn, 1ầy thách thức",
+      "example": "This is the most challenging job I’ve ever had."
+    },
+    {
+      "word": "Run out",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Cạn kiệt",
+      "example": "We’re going to run out of paper soon."
+    },
+    {
+      "word": "Transfer",
+      "phonetic": "/træns#fɜ'r/",
+      "type": "v",
+      "meaning": "Chuyển, thuyên chuyển",
+      "example": "She’s transferring to a new office."
+    },
+    {
+      "word": "Ride",
+      "phonetic": "/raId/",
+      "type": "v, n",
+      "meaning": "(i (cưỡi), chuyến 1i",
+      "example": "Are you riding your bike to work todayJ"
+    },
+    {
+      "word": "Lead",
+      "phonetic": "/li'd/",
+      "type": "v",
+      "meaning": "Dẫn 1ầu",
+      "example": "Who’s been selected to lead the design teamJ"
+    },
+    {
+      "word": "Identification",
+      "phonetic": "/aI,dentIfI#keIʃn/",
+      "type": "n",
+      "meaning": "Sự nhận dạng",
+      "example": "Everyone must show identification."
+    },
+    {
+      "word": "Survey",
+      "phonetic": "/#sɜ'rveI/",
+      "type": "n",
+      "meaning": "Cuộc khảo sát",
+      "example": "Why don’t you wait to see the survey results."
+    },
+    {
+      "word": "Suggest",
+      "phonetic": "/sə#dʒest/",
+      "type": "v",
+      "meaning": "(ề nghị, chỉ ra",
+      "example": "What do you suggest I do with the contractJ"
+    },
+    {
+      "word": "Lower",
+      "phonetic": "/#loυər/",
+      "type": "v",
+      "meaning": "Cắt giảm",
+      "example": "The price was just lowered."
+    },
+    {
+      "word": "Make sure",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "(ảm bảo",
+      "example": "I’ll make sure it’s turned on."
+    },
+    {
+      "word": "Ask for",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "(ề nghị",
+      "example": "Let’s call the stockroom and ask for more supplies."
+    },
+    {
+      "word": "Recommend",
+      "phonetic": "/,rekə#mend/",
+      "type": "v",
+      "meaning": "(ề nghị, giới thiệu",
+      "example": "Which laptop model would you recommendJ"
+    },
+    {
+      "word": "Let me know if",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Cho tôi biết nếu",
+      "example": "Let me know if you’re free to talk today."
+    },
+    {
+      "word": "Weigh",
+      "phonetic": "/weI/",
+      "type": "v",
+      "meaning": "Cân nặng",
+      "example": "It weighs about ten kilos."
+    },
+    {
+      "word": "Downtown",
+      "phonetic": "/#daυntaυn/",
+      "type": "adv",
+      "meaning": "Khu vực trung tâm",
+      "example": "At a hotel downtown."
+    },
+    {
+      "word": "Renew",
+      "phonetic": "/rI#nu'/",
+      "type": "v",
+      "meaning": "Gia hạn",
+      "example": "Is it possible to renew my fishing license over the phoneJ"
+    },
+    {
+      "word": "Bottom",
+      "phonetic": "/#ba'təm/",
+      "type": "n",
+      "meaning": "Dưới 1áy (cùng)",
+      "example": "It should be on the bottom."
+    },
+    {
+      "word": "Deserve",
+      "phonetic": "/dI#zɜ'rv/",
+      "type": "v",
+      "meaning": "Xứng 1áng",
+      "example": "She deserves the recognition."
+    },
+    {
+      "word": "Mail",
+      "phonetic": "/meIl/",
+      "type": "n",
+      "meaning": "Thư",
+      "example": "You’ll get it in the mail."
+    }
+  ],
+  "Day 5": [
+    {
+      "word": "Candidate",
+      "phonetic": "/#kændIdeIt/",
+      "type": "n",
+      "meaning": "Ứng viên",
+      "example": "He is the best candidate for a job."
+    },
+    {
+      "word": "Option",
+      "phonetic": "/#a'pʃn/",
+      "type": "n",
+      "meaning": "Sự lựa chọn",
+      "example": "We have a lot of options you might like."
+    },
+    {
+      "word": "Replace",
+      "phonetic": "/rI#pleIs/",
+      "type": "v",
+      "meaning": "Thay thế",
+      "example": "We’d like to replace the carpet in your office on Friday."
+    },
+    {
+      "word": "Issue",
+      "phonetic": "/#Iʃu'/",
+      "type": "v",
+      "meaning": "Cung cấp, phát hành",
+      "example": "I’ll issue you another one and send it by messenger to your office before noon."
+    },
+    {
+      "word": "Promotion",
+      "phonetic": "/prə#moυʃn/",
+      "type": "n",
+      "meaning": "Sự thăng chức, khuyến mãi",
+      "example": "Some people in the sales department received promotions this year."
+    },
+    {
+      "word": "Shift",
+      "phonetic": "/ʃIft/",
+      "type": "n",
+      "meaning": "Ca làm việc",
+      "example": "I’ll see if he can work an extra shift."
+    },
+    {
+      "word": "Impressed",
+      "phonetic": "/Im#prest/",
+      "type": "adj",
+      "meaning": "Bị ấn tượng",
+      "example": "I’ve been really impressed with your work."
+    },
+    {
+      "word": "Brainstorm",
+      "phonetic": "/#breInstɔ'rm/",
+      "type": "v",
+      "meaning": "(ộng não",
+      "example": "I’d like to start brainstorming about our next."
+    },
+    {
+      "word": "Confirm",
+      "phonetic": "/kən#fɜ'rm/",
+      "type": "v",
+      "meaning": "Xác nhận",
+      "example": "I’m waiting to confirm some results from the soil."
+    },
+    {
+      "word": "Domestic",
+      "phonetic": "/də#mestIk/",
+      "type": "adj",
+      "meaning": "Nội 1ịa",
+      "example": "There isn’t that much demand on the domestic."
+    },
+    {
+      "word": "Upcoming",
+      "phonetic": "/#ʌpkʌmIŋ/",
+      "type": "adj",
+      "meaning": "Sắp tới",
+      "example": "I’ve just finished reviewing the financial report you’ve created for the upcoming meeting."
+    },
+    {
+      "word": "Figure out",
+      "phonetic": "/#fI-jər/",
+      "type": "phr",
+      "meaning": "Tính toán, hiểu ra",
+      "example": "I actually had to figure most of it out on my own."
+    },
+    {
+      "word": "Install",
+      "phonetic": "/In#stɔ'l/",
+      "type": "v",
+      "meaning": "Lắp 1ặt",
+      "example": "I need to hire someone to install the flooring."
+    },
+    {
+      "word": "Community",
+      "phonetic": "/kə#mju'nəti/",
+      "type": "n",
+      "meaning": "Cộng 1ồng",
+      "example": "The exhibit is very popular with the community members who attend."
+    },
+    {
+      "word": "Locate",
+      "phonetic": "/#loυkeIt/",
+      "type": "v",
+      "meaning": "Xác 1ịnh",
+      "example": "Your office is located at 145 Maxwell Street."
+    },
+    {
+      "word": "Contractor",
+      "phonetic": "/kən#træktər/",
+      "type": "n",
+      "meaning": "Nhà thầu",
+      "example": "I suppose we could hire a contractor to help with the work."
+    },
+    {
+      "word": "Save",
+      "phonetic": "/seIv/",
+      "type": "v",
+      "meaning": "Tiết kiệm",
+      "example": "We could save money by changing shipping companies."
+    },
+    {
+      "word": "Reject",
+      "phonetic": "/rI#dʒekt/",
+      "type": "v",
+      "meaning": "Từ chối",
+      "example": "When I tried to log on to my computer, my password was rejected."
+    },
+    {
+      "word": "Check out",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Thanh toán (hóa 1ơn)",
+      "example": "I’d like to check out these books and journals."
+    },
+    {
+      "word": "Extra",
+      "phonetic": "/#ekstrə/",
+      "type": "adj",
+      "meaning": "Thêm, bổ sung",
+      "example": "I’d like to stay at the hotel for one extra night, please."
+    },
+    {
+      "word": "Relationship",
+      "phonetic": "/rI#leIʃnʃIp/",
+      "type": "n",
+      "meaning": "Mối quan hệ",
+      "example": "I’ll be giving a presentation on maintaining good relationships with the news media."
+    },
+    {
+      "word": "Apologize",
+      "phonetic": "/ə#pa'lədʒaIz/",
+      "type": "v",
+      "meaning": "Xin Lỗi",
+      "example": "I apologize for this inconvenience."
+    },
+    {
+      "word": "Assembly",
+      "phonetic": "/ə#sembli/",
+      "type": "n",
+      "meaning": "Sự lắp ráp",
+      "example": "We want the assembly line to be back in operation quickly."
+    },
+    {
+      "word": "Reservation",
+      "phonetic": "/,rezər#veIʃn/",
+      "type": "n",
+      "meaning": "Sự 1ặt chỗ",
+      "example": "I completely forgot to make the car reservation."
+    },
+    {
+      "word": "Be sure to",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Chắc chắn 1ể làm gì ~",
+      "example": "I’ll be sure to give him the message."
+    },
+    {
+      "word": "Not until",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Không cho tới khi",
+      "example": "The award dinner’s not until next month."
+    },
+    {
+      "word": "Assorted",
+      "phonetic": "/ə#sɔ'rtəd/",
+      "type": "adj",
+      "meaning": "Hỗn hợp",
+      "example": "I ordered assorted sandwiches, beverages, and cookies for dessert."
+    },
+    {
+      "word": "Experience",
+      "phonetic": "/Ik#spIriəns/",
+      "type": "n",
+      "meaning": "Kinh nghiệm",
+      "example": "I don’t have any managerial experience."
+    },
+    {
+      "word": "Facility",
+      "phonetic": "/fə#sIləti/",
+      "type": "n",
+      "meaning": "Phương tiện, cơ sở",
+      "example": "I can show you around the facility."
+    },
+    {
+      "word": "Loan",
+      "phonetic": "/loυn/",
+      "type": "n",
+      "meaning": "Khoản vay",
+      "example": "The business office can call you as soon as the loan has been approved."
+    },
+    {
+      "word": "Spot",
+      "phonetic": "/spa't/",
+      "type": "n",
+      "meaning": "(iểm (1ỗ xe)",
+      "example": "I had to park in a spot on the street almost a mile away."
+    },
+    {
+      "word": "Prescription",
+      "phonetic": "/prI#skrIpʃn/",
+      "type": "n",
+      "meaning": "Sự kê 1ơn",
+      "example": "My physician called a prescription to the pharmacy this morning for my allergy medication."
+    },
+    {
+      "word": "Put together",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Tổ chức, lắp ghép",
+      "example": "I’m putting together a lunch outing for my department."
+    },
+    {
+      "word": "Spacious",
+      "phonetic": "/#speIʃəs/",
+      "type": "adj",
+      "meaning": "Rộng rãi",
+      "example": "As you can see, the living room is quite spacious."
+    },
+    {
+      "word": "Potential",
+      "phonetic": "/pə#tenʃl/",
+      "type": "adj",
+      "meaning": "Tiềm năng",
+      "example": "We don’t want to lose any potential future."
+    },
+    {
+      "word": "Improvement",
+      "phonetic": "/Im#pru'vmənt/",
+      "type": "n",
+      "meaning": "Sự cải tiến",
+      "example": "I’ve definitely noticed an improvement over the past few weeks."
+    },
+    {
+      "word": "Overseas",
+      "phonetic": "/,oυvər#si'z/",
+      "type": "adj",
+      "meaning": "Nước ngoài",
+      "example": "She’s on the telephone with an overseas customer right now."
+    },
+    {
+      "word": "Lease",
+      "phonetic": "/li's/",
+      "type": "n",
+      "meaning": "Thuê, cho thuê",
+      "example": "I was just wondering if it would be possible to get a copy of my lease."
+    },
+    {
+      "word": "Remodeling",
+      "phonetic": "/,ri'#ma'dlinŋ/",
+      "type": "n",
+      "meaning": "Sự cải tạo",
+      "example": "I’m considering doing some remodel ing that might increase its value."
+    },
+    {
+      "word": "Raise",
+      "phonetic": "/reIz/",
+      "type": "v",
+      "meaning": "Tăng (giá)",
+      "example": "Our regular shipper has raised its rates."
+    },
+    {
+      "word": "In the meantime",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Trong khi chờ 1ợi",
+      "example": "I have some work I can finish up in the meantime."
+    },
+    {
+      "word": "Account",
+      "phonetic": "/ə#kaυnt/",
+      "type": "n",
+      "meaning": "Tài khoản",
+      "example": "Let me look up your account in our database."
+    }
+    ],
+    "Day 6": [
+        {
+          "word": "Expand",
+          "phonetic": "/Ik#spænd/",
+          "type": "v",
+          "meaning": "Mở rộng",
+          "example": "Now that my business is expanding, the office is starting to seem too small."
+        },
+        {
+          "word": "Annual",
+          "phonetic": "/#ænjuəl/",
+          "type": "adj",
+          "meaning": "Hàng năm",
+          "example": "I just saw some signs at the supermar ket for the annual town fair."
+        },
+        {
+          "word": "Promote",
+          "phonetic": "/prə#moυt/",
+          "type": "v",
+          "meaning": "Thúc 1ẩy, xúc tiến",
+          "example": "I’ll have to think of a different way to promote our products."
+        },
+        {
+          "word": "Deal",
+          "phonetic": "/di'l/",
+          "type": "v",
+          "meaning": "Giải quyết",
+          "example": "I don’t have to deal with city traffic."
+        },
+        {
+          "word": "Space",
+          "phonetic": "/speIs/",
+          "type": "n",
+          "meaning": "Không gian",
+          "example": "There should be enough display space for one."
+        },
+        {
+          "word": "Popular",
+          "phonetic": "/#pa'pjələr/",
+          "type": "adj",
+          "meaning": "Nổi tiếng, phổ biến",
+          "example": "The fair’s grown so popular that it had to be moved to a new location."
+        },
+        {
+          "word": "Budget",
+          "phonetic": "/#bʌdʒIt/",
+          "type": "n",
+          "meaning": "Ngân sách",
+          "example": "We’re definitely over budget right now."
+        },
+        {
+          "word": "Cut back",
+          "phonetic": "",
+          "type": "phr",
+          "meaning": "Cắt giảm",
+          "example": "If the additional cost is a problem, we can find something else to cut back on."
+        },
+        {
+          "word": "Qualified",
+          "phonetic": "/#kwa'lIfaId/",
+          "type": "adj",
+          "meaning": "(ủ 1iều kiện, chất lượng",
+          "example": "Qualified applicants must be able to drive."
+        },
+        {
+          "word": "Neighborhood",
+          "phonetic": "/#neIbərhυd/",
+          "type": "n",
+          "meaning": "Khu vực xung quanh, lân cận",
+          "example": "I’ll be in your neighborhood on Monday."
+        },
+        {
+          "word": "Away",
+          "phonetic": "/ə#weI/",
+          "type": "adj",
+          "meaning": "Xa, cách xa",
+          "example": "The new phone system went into operation while you were away."
+        },
+        {
+          "word": "Correct",
+          "phonetic": "/kə#rekt/",
+          "type": "v",
+          "meaning": "Chỉnh sửa",
+          "example": "Let me correct that for you."
+        },
+        {
+          "word": "Specialize",
+          "phonetic": "/#speʃəlaIz/",
+          "type": "v",
+          "meaning": "Chuyên về",
+          "example": "I found an Indonesian company that specializes in hotel furniture."
+        },
+        {
+          "word": "Inconvenience",
+          "phonetic": "/,Inkən#vi'niəns/",
+          "type": "n",
+          "meaning": "Sự bất tiện",
+          "example": "I’m terribly sorry for the inconvenience."
+        },
+        {
+          "word": "Reasonable",
+          "phonetic": "/#ri'znəbl/",
+          "type": "adj",
+          "meaning": "Hợp lý",
+          "example": "That’s certainly a reasonable request."
+        },
+        {
+          "word": "Turn out",
+          "phonetic": "",
+          "type": "phr",
+          "meaning": "Chỉ ra",
+          "example": "It turns out my car won’t be fixed for another."
+        },
+        {
+          "word": "Own",
+          "phonetic": "/oυn/",
+          "type": "v",
+          "meaning": "Sở hữu",
+          "example": "I own a restaurant in Madrid."
+        },
+        {
+          "word": "Broken",
+          "phonetic": "/#broυkən/",
+          "type": "adj",
+          "meaning": "Bị vỡ, hỏng",
+          "example": "The copying machine is broken again."
+        },
+        {
+          "word": "Misplace",
+          "phonetic": "/,mIs#pleIs/",
+          "type": "v",
+          "meaning": "(ể (1ặt) nhầm chỗ",
+          "example": "She misplaced a file."
+        },
+        {
+          "word": "Policy",
+          "phonetic": "/#pa'ləsi/",
+          "type": "n",
+          "meaning": "Chính sách",
+          "example": "Our usual policy is to transfer patient records directly to the doctor."
+        },
+        {
+          "word": "Sound",
+          "phonetic": "/saυnd/",
+          "type": "v",
+          "meaning": "Dường như",
+          "example": "Wednesday sounds good."
+        },
+        {
+          "word": "Handout",
+          "phonetic": "/#hændaυt/",
+          "type": "n",
+          "meaning": "Tài liệu phát tay",
+          "example": "I can’t print out my handouts for this afternoon."
+        },
+        {
+          "word": "Crowded",
+          "phonetic": "/#kraυdId/",
+          "type": "adj",
+          "meaning": "(ông 1úc",
+          "example": "It was really crowded, but it was worth the trip."
+        },
+        {
+          "word": "See if",
+          "phonetic": "",
+          "type": "phr",
+          "meaning": "Xem nếu",
+          "example": "I’ll see if I can find someone to come over sooner."
+        },
+        {
+          "word": "Release",
+          "phonetic": "/rI#li's/",
+          "type": "v",
+          "meaning": "Tung ra, phát hành",
+          "example": "One of our competitions is releasing a similar."
+        },
+        {
+          "word": "Expense",
+          "phonetic": "/Ik#spens/",
+          "type": "n",
+          "meaning": "Chi phí",
+          "example": "I’ll look over our expenses later today."
+        },
+        {
+          "word": "Set aside",
+          "phonetic": "phr",
+          "type": " ",
+          "meaning": "Ðể riêng ra",
+          "example": "I’ll make sure a book is signed by Chef David and set aside for you."
+        },
+        {
+          "word": "Background",
+          "phonetic": "/bæk raυnd/",
+          "type": "n",
+          "meaning": "Nền tảng",
+          "example": " You have an extensive background in marketing."
+        },
+      {
+      "word": "Author",
+      "phonetic": "/ˈɔːθər/",
+      "type": "n",
+      "meaning": "Tác giả",
+      "example": "I know a local author of mystery novels who will be there signing her books."
+      },
+      {
+      "word": "Evaluation",
+      "phonetic": "/ɪˌvæljuˈeɪʃn/",
+      "type": "n",
+      "meaning": "Sự đánh giá",
+      "example": "Do you know when our performance evaluations."
+      },
+      {
+      "word": "Regional",
+      "phonetic": "/ˈriːdʒənl/",
+      "type": "adj",
+      "meaning": "Khu vực",
+      "example": "We have a lot of materials to print for this regional sales meeting."
+      },
+      {
+      "word": "Shape",
+      "phonetic": "/ʃeɪp/",
+      "type": "n",
+      "meaning": "Hình dáng",
+      "example": "I am really out of shape."
+      },
+      {
+      "word": "Block",
+      "phonetic": "/blɑːk/",
+      "type": "v",
+      "meaning": "Ngăn cản, cản trở",
+      "example": "Some buses were blocking her away."
+      },
+      {
+      "word": "Suspend",
+      "phonetic": "/səˈspend/",
+      "type": "v",
+      "meaning": "Treo, đình chỉ",
+      "example": "Did you know you can suspend your membership for up to six months?"
+      },
+      {
+      "word": "Project",
+      "phonetic": "/ˈprɑːdʒekt/",
+      "type": "n",
+      "meaning": "Dự án",
+      "example": "How's the recruitment project going?"
+      },
+      {
+      "word": "Public",
+      "phonetic": "/ˈpʌblɪk/",
+      "type": "n",
+      "meaning": "Công cộng, chung",
+      "example": "There are only a few spots available to the general public."
+      },
+      {
+      "word": "Correction",
+      "phonetic": "/kəˈrekʃn/",
+      "type": "n",
+      "meaning": "Sự chỉnh sửa",
+      "example": "There's still time for me to make a correction."
+      },
+      {
+      "word": "Landscaping",
+      "phonetic": "/ˈlændskeɪpɪŋ/",
+      "type": "n",
+      "meaning": "Phong cảnh",
+      "example": "I'm interested in having some landscaping done outside my home."
+      },
+      {
+      "word": "Injure",
+      "phonetic": "/ˈɪndʒər/",
+      "type": "v",
+      "meaning": "Chấn thương",
+      "example": "One of our players was injured during the last game."
+      },
+      {
+      "word": "Fill out",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Điền vào",
+      "example": "You'll have to fill out a registration form on our Web site."
+      },
+      {
+      "word": "That way",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Theo cách đó",
+      "example": "That way, we won't get too far behind schedule."
+      },
+      {
+      "word": "Damaged",
+      "phonetic": "/ˈdæmɪdʒd/",
+      "type": "adj",
+      "meaning": "Bị hư hại",
+      "example": "It sounds like the badge has been damaged."
+      },
+      {
+      "word": "In time",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Kịp lúc",
+      "example": "They'll certainly be ready in time for the launch date."
+      }
+    ],
+    "Day 7": [
+      {
+      "word": "Interested",
+      "phonetic": "/ˈɪntrəstɪd/",
+      "type": "adj",
+      "meaning": "Quan tâm",
+      "example": "I'm interested in the position, but I'm worried that I'm not really qualified."
+      },
+      {
+      "word": "Attend",
+      "phonetic": "/əˈtend/",
+      "type": "v",
+      "meaning": "Tham gia, tham dự",
+      "example": "I've registered to attend the conference."
+      },
+      {
+      "word": "Estimate",
+      "phonetic": "/ˈestɪmət/",
+      "type": "n",
+      "meaning": "Ước tính, dự đoán",
+      "example": "Can you fax me an estimate of the total cost?"
+      },
+      {
+      "word": "Fee",
+      "phonetic": "/fiː/",
+      "type": "n",
+      "meaning": "Phí",
+      "example": "There's been a twenty-five dollars late fee added to your bill."
+      },
+      {
+      "word": "Sold out",
+      "phonetic": "",
+      "type": "v",
+      "meaning": "Hết hàng, đã bán hết",
+      "example": "The concert is completely sold out."
+      },
+      {
+      "word": "Refundable",
+      "phonetic": "/rɪˈfʌndəbl/",
+      "type": "a",
+      "meaning": "Có thể hoàn trả",
+      "example": "I'd suggest you buy a refundable ticket."
+      },
+      {
+      "word": "Hire",
+      "phonetic": "/ˈhaɪər/",
+      "type": "v",
+      "meaning": "Thuê, tuyển dụng",
+      "example": "We can actually afford to hire extra help."
+      },
+      {
+      "word": "Electronically",
+      "phonetic": "/ɪˌlekˈtrɑːnɪkli/",
+      "type": "adv",
+      "meaning": "Điện tử (trực tuyến)",
+      "example": "You can also fill out the survey online and submit it electronically."
+      },
+      {
+      "word": "Payment",
+      "phonetic": "/ˈpeɪmənt/",
+      "type": "n",
+      "meaning": "Thanh toán",
+      "example": "I see that you've missed a monthly payment."
+      },
+      {
+      "word": "Influence",
+      "phonetic": "/ˈɪnfluəns/",
+      "type": "v",
+      "meaning": "Ảnh hưởng",
+      "example": "Most of my paintings in this gallery were influenced by my visit there."
+      },
+      {
+      "word": "Charity",
+      "phonetic": "/ˈtʃærəti/",
+      "type": "n",
+      "meaning": "Từ thiện",
+      "example": "I'm here to register for the charity bicycle race."
+      },
+      {
+      "word": "A couple of",
+      "phonetic": "",
+      "type": "phr",
+      "meaning": "Một vài",
+      "example": "Don't worry, it should only take a couple of minutes."
+      },
+      {
+      "word": "Property",
+      "phonetic": "/ˈprɑːpərti/",
+      "type": "n",
+      "meaning": "Tài sản, bất động sản",
+      "example": "I only handle commercial properties now."
+      },
+      {
+      "word": "Leak",
+      "phonetic": "/liːk/",
+      "type": "n",
+      "meaning": "Sự rò rỉ (rì nước)",
+      "example": "When did you say the leak started?"
+      },
+      {
+      "word": "Management",
+      "phonetic": "/ˈmænɪdʒmənt/",
+      "type": "n",
+      "meaning": "Sự quản lý, ban quản lý",
+      "example": "The management has decided to give you all a bonus."
+      },
+      {
+      "word": "Apply",
+      "phonetic": "/əˈplaɪ/",
+      "type": "v",
+      "meaning": "Nộp đơn, ứng tuyển",
+      "example": "Did you apply for the sound engineer or broadcaster position?"
+      },
+      {
+      "word": "Last-minute",
+      "phonetic": "/ˌlæst ˈmɪnɪt/",
+      "type": "a",
+      "meaning": "Phút cuối, phút chót",
+      "example": "I'm sorry but Ms.Choi left for a last-minute business trip this morning."
+      },
+      {
+      "word": "Collection",
+      "phonetic": "/kəˈlekʃn/",
+      "type": "n",
+      "meaning": "Bộ sưu tập",
+      "example": "I finally finished the window display for our spring furniture collection."
+      },
+      {
+      "word": "Flexible",
+      "phonetic": "/ˈfleksəbl/",
+      "type": "a",
+      "meaning": "Linh hoạt",
+      "example": "He has a flexible schedule."
+      },
+      {
+      "word": "Maintenance",
+      "phonetic": "/ˈmeɪntənəns/",
+      "type": "n",
+      "meaning": "Sự bảo trì, bảo dưỡng",
+      "example": "All our maintenance workers are out on other calls right now."
+      },
+      {
+      "word": "Originally",
+      "phonetic": "/əˈrɪdʒənəli/",
+      "type": "adv",
+      "meaning": "Ban đầu, đầu tiên",
+      "example": "I think I'll just wait for the one I originally ordered."
+      },
+      {
+      "word": "Progress",
+      "phonetic": "/ˈprɑːɡres/",
+      "type": "n",
+      "meaning": "Sự tiến bộ, tiến triển",
+      "example": "We've made a lot of progress on the print advertisements."
+      },
+      {
+      "word": "Fascinating",
+      "phonetic": "/ˈfæsɪneɪtɪŋ/",
+      "type": "a",
+      "meaning": "Hấp dẫn, thú vị",
+      "example": "Each photograph was so fastinating."
+      },
+      {
+      "word": "Cancel",
+      "phonetic": "/ˈkænsl/",
+      "type": "v",
+      "meaning": "Hủy bỏ",
+      "example": "I need to cancel my appointment for an eye exam on Wednesday."
+      },
+      {
+      "word": "Lack",
+      "phonetic": "/læk/",
+      "type": "v",
+      "meaning": "Thiếu",
+      "example": "Our research group lacks the kind of experience we need for these next projects."
+      },
+      {
+      "word": "Luncheon",
+      "phonetic": "/ˈlʌntʃən/",
+      "type": "n",
+      "meaning": "Bữa tiệc trưa",
+      "example": "I'm organizing a luncheon for an employee who's retiring from my company."
+      },
+      {
+      "word": "Detail",
+      "phonetic": "/dɪˈteɪl/",
+      "type": "n",
+      "meaning": "Chi tiết",
+      "example": "I'm going to e-mail you more details about the job."
+      },
+      {
+      "word": "Edition",
+      "phonetic": "/ɪˈdɪʃn/",
+      "type": "n",
+      "meaning": "Phiên bản",
+      "example": "We'd like to publish the Japanese edition of Building a Financial Portfolio."
+      },
+      {
+      "word": "Missing",
+      "phonetic": "/ˈmɪsɪŋ/",
+      "type": "a",
+      "meaning": "Mất tích, thất lạc",
+      "example": "One of the items I ordered was missing."
+      },
+      {
+      "word": "Select",
+      "phonetic": "/sɪˈlekt/",
+      "type": "v",
+      "meaning": "Lựa chọn",
+      "example": "Could you help me select some paint?"
+      },
+      {
+        "word": "Deposit",
+        "phonetic": "/dı'pa:zıt/",
+        "type": "v",
+        "meaning": "Ký gửi, đặt cọC",
+        "example": "Your money's been deposited into your savings account."
+      },
+      {
+        "word": "Layout",
+        "phonetic": "/'lerart/",
+        "type": "n",
+        "meaning": "Bố cục, bố trí",
+        "example": "One guy talked about easy changes to store layout."
+      },
+      {
+        "word": "Terrific",
+        "phonetic": "/tə'rıfık/",
+        "type": "a",
+        "meaning": "Tuyệt vời",
+        "example": "It was great - terrific food, fast service, pleasant setting."
+      },
+      {
+        "word": "Lay off",
+        "phonetic": "",
+        "type": "v",
+        "meaning": "Sa thải",
+        "example": "Lots of companies around here have had to lay off employees recently."
+      },
+      {
+        "word": "Later",
+        "phonetic": "/'lertər/",
+        "type": "adv",
+        "meaning": "Sau, sau đó",
+        "example": "Let's go over the figures later."
+      },
+      {
+        "word": "Calculate",
+        "phonetic": "/'kælkjulert/",
+        "type": "v",
+        "meaning": "Tính toán",
+        "example": "I'll just need recipient's address so that I can calculate delivery costs."
+      },
+      {
+        "word": "Mix-up",
+        "phonetic": "/'miks  /",
+        "type": "n",
+        "meaning": "Sự lộn xộn, kết hợp",
+        "example": "I'm sure there was a mix-up at layout."
+      },
+      {
+        "word": "Organization",
+        "phonetic": ":rgənə'zeın/",
+        "type": "n",
+        "meaning": "Tổ chức, cơ quan",
+        "example": "I have some furniture I'd like to donate to your organization."
+      },
+      {
+        "word": "Congratulate",
+        "phonetic": "/kən'grætſuleit/",
+        "type": "v",
+        "meaning": "Chúc mừng",
+        "example": "I'll have to call and congratulate him."
+      },
+      {
+        "word": "Error",
+        "phonetic": "/'erər/",
+        "type": "n",
+        "meaning": "Lỗi sai",
+        "example": "Unfortunately, I made an error in my calculations."
+      },
+      {
+        "word": "Overcharge",
+        "phonetic": "/ouver'tfa:rd3/",
+        "type": "v",
+        "meaning": "Tính giá quá đắt, quá tải",
+        "example": "I noticed that I'd been overcharged when I got the credit card statement."
+      },
+      {
+        "word": "Routine",
+        "phonetic": "/ru\\cdot tizn/",
+        "type": "a",
+        "meaning": "Đều đặn, thường lệ",
+        "example": "We're going to be closing the library early on Thursday for some routine maintenance works."
+      },
+      {
+        "word": "Develop",
+        "phonetic": "/di'velǝp/",
+        "type": "v",
+        "meaning": "Phát triển",
+        "example": "I was asked to develop a mobile application for our account holders."
+      },
+      {
+        "word": "Register",
+        "phonetic": "/'redzıstər/",
+        "type": "v",
+        "meaning": "Đăng ký",
+        "example": "You should go to our web site and register for the automatic payment plan."
+      },
+      {
+        "word": "Look forward to",
+        "phonetic": "",
+        "type": "phr",
+        "meaning": "Mong đợi",
+        "example": "I'm really looking forward to going bicyle riding."
+      },
+      {
+        "word": "Out of town",
+        "phonetic": "",
+        "type": "phr",
+        "meaning": "Đi công tác, đi vắng",
+        "example": "I'm out of town for a conference this week."
+      },
+      {
+        "word": "Rush",
+        "phonetic": "/۲۸/",
+        "type": "v",
+        "meaning": "Vội vã",
+        "example": "We won't have to rush to check in."
+      },
+      {
+        "word": "Manufacturer",
+        "phonetic": "/mænju'fæktfərər/",
+        "type": "n",
+        "meaning": "Nhà sản xuất",
+        "example": "They have a manufacturer's guarantee."
+      },
+      {
+        "word": "Negotiate",
+        "phonetic": "/nı'goufiert/",
+        "type": "v",
+        "meaning": "Đàm phán",
+        "example": "A large part of my job is to negotiate contracts with fashion designers and manufacturers."
+      },
+      {
+        "word": "Tenant",
+        "phonetic": "/'tenənt/",
+        "type": "n",
+        "meaning": "Người thuê (nhà)",
+        "example": "The last tenant used it as storage space for clothes, and some exercise equipment."
+      }
+    ],
+  "Day 8": [
+      {
+        "word": "Award",
+        "phonetic": "/ə'wɔ:rd/",
+        "type": "n",
+        "meaning": "Giải thường, phần thường",
+        "example": "I am delighted to be here tonight to receive this prestigious award."
+      },
+      {
+        "word": "Feature",
+        "phonetic": "/'fi:tJǝr/",
+        "type": "n",
+        "meaning": "Tính năng, đặc tính",
+        "example": "The shadowspeak will have all the latest features."
+      },
+      {
+        "word": "Broadcast",
+        "phonetic": "/'bro:dkæst/",
+        "type": "v",
+        "meaning": "Phát sóng",
+        "example": "The event is being broadcast live."
+      },
+      {
+        "word": "Representative",
+        "phonetic": "/reprı'zentǝtıv/",
+        "type": "n",
+        "meaning": "Người đại diện",
+        "example": "Please call 555-1000 to speak to a customer service representative."
+      },
+      {
+        "word": "Demonstration",
+        "phonetic": "/demən'streın/",
+        "type": "n",
+        "meaning": "Sự giới thiệu trưng bày (sản phẩm mới)",
+        "example": "Visit one of our retail outlets for a demonstration of the newest models available."
+      },
+      {
+        "word": "Culinary",
+        "phonetic": "/'kʌlineri/",
+        "type": "a",
+        "meaning": "Ẩm thực",
+        "example": "You can sample a variety of healthy snacks made in our brand new culinary arts facility."
+      },
+      {
+        "word": "Hesitate",
+        "phonetic": "/'hezitert/",
+        "type": "v",
+        "meaning": "Lưỡng lự, do dự",
+        "example": "Please don't hesitate to ask me any questions."
+      },
+      {
+        "word": "Proceed to",
+        "phonetic": "/pro 'si:d/",
+        "type": "phr",
+        "meaning": "Tiến tới",
+        "example": "If you would like to check out any books, please proceed to the service desk near the entrance."
+      },
+      {
+        "word": "Alternative",
+        "phonetic": "/ :l'ts:rnətıv/",
+        "type": "n",
+        "meaning": "Sự thay thế",
+        "example": "This healthy snack is a great alterna- tive to junk food."
+      },
+      {
+        "word": "Attendee",
+        "phonetic": "/,æten'di:/",
+        "type": "n",
+        "meaning": "Người tham dự",
+        "example": "I'm sure this will be a year to remem- ber for all attendees."
+      },
+      {
+        "word": "Reward",
+        "phonetic": "/rr'wɔ:rd/",
+        "type": "v",
+        "meaning": "Thường, đền đáp",
+        "example": "The quality of our work has been rewarded with a larger constract from Winslow."
+      },
+      {
+        "word": "Patron",
+        "phonetic": "/'pertrən/",
+        "type": "n",
+        "meaning": "Khách quen",
+        "example": "I want to remind you to tell patrons about a new service we're offering on the library's Web site."
+      },
+      {
+        "word": "Report",
+        "phonetic": "/rı'pɔ:rt/",
+        "type": "v",
+        "meaning": "Báo cáo, viết phóng sự",
+        "example": "You may someday travel around the world to report on news stories."
+      },
+      {
+        "word": "Reputation",
+        "phonetic": "/,repju'tern/",
+        "type": "n",
+        "meaning": "Danh tiếng",
+        "example": "Are you looking for a travel agency with a solid reputation and a knowledgeable staff?"
+      },
+      {
+        "word": "Outgoing",
+        "phonetic": "/^{\\prime}avtgowI\\eta/",
+        "type": "a",
+        "meaning": "Sắp thôi việc, sắp đi, chan hòa (hòa đồng)",
+        "example": "There has been a time change for the luncheon for the association's outgoing president."
+      },
+      {
+        "word": "Comprehensive",
+        "phonetic": "/ka:mpri'hensiv/",
+        "type": "a",
+        "meaning": "Toàn diện",
+        "example": "Anyone who attends the workshop will receive a comprehensive folder full off information."
+      },
+      {
+        "word": "Direct",
+        "phonetic": "/dar'rekt/",
+        "type": "v",
+        "meaning": "Gửi, đạo diễn",
+        "example": "Please direct all questions to the manager on duty. He directed a film"
+      },
+      {
+        "word": "Host",
+        "phonetic": "/host/",
+        "type": "v",
+        "meaning": "Tổ chức",
+        "example": "The Hartman Medical Clinic is hosting a health and wellness fair."
+      },
+      {
+        "word": "Talented",
+        "phonetic": "/'tæləntıd/",
+        "type": "a",
+        "meaning": "Tài năng",
+        "example": "We're thrilled to have such a talented group of writers joining us."
+      },
+      {
+        "word": "Remarkable",
+        "phonetic": "/rı'ma:rkəbl/",
+        "type": "a",
+        "meaning": "Nổi bật, đáng chú ý",
+        "example": "Let's move on to recognizing some of the most remarkable employees in our organization."
+      },
+      {
+        "word": "Anniversary",
+        "phonetic": "ænı'v3:rsəri/",
+        "type": "n",
+        "meaning": "Lễ kỷ niệm",
+        "example": "It's your tenth anniversary at work."
+      },
+      {
+        "word": "Souvenir",
+        "phonetic": "/su:və'nır/",
+        "type": "n",
+        "meaning": "Đồ lưu niệm",
+        "example": "Our tour lasts approximately two hours and ends back here at the souvenir shop."
+      },
+      {
+        "word": "Loyal",
+        "phonetic": "/ lɔıəl/",
+        "type": "a",
+        "meaning": "Trung thành",
+        "example": "Thank you for being our loyal custom- ers over the past five year."
+      },
+      {
+        "word": "Applause",
+        "phonetic": "/ə'plo:z/",
+        "type": "n",
+        "meaning": "Tràng pháo tay",
+        "example": "Let's give a round of applause for Jessica."
+      },
+      {
+        "word": "Contain",
+        "phonetic": "/kən'teın/",
+        "type": "v",
+        "meaning": "Bao gồm, chứa đựng",
+        "example": "The folder in front of you contains a map of the building."
+      },
+      {
+      "word": "Permit",
+      "phonetic": "/pər'mɪt/",
+      "type": "v",
+      "meaning": "Cho phép",
+      "example": "We remind you that no photography is permitted during the play."
+    },
+    {
+      "word": "Tune",
+      "phonetic": "/tu:n/",
+      "type": "v",
+      "meaning": "Điều chỉnh",
+      "example": "Remember to tune in to Radio WTZ for regular traffic updates."
+    },
+    {
+      "word": "Retail",
+      "phonetic": "/'ri:teɪl/",
+      "type": "n",
+      "meaning": "Bán lẻ",
+      "example": "We're going to be offering our products to retail stores in additional countries."
+    },
+    {
+      "word": "Volunteer",
+      "phonetic": "/vɑ:lən'tɪr/",
+      "type": "v",
+      "meaning": "Tình nguyện",
+      "example": "Thank you all for volunteering to be on the interview committee."
+    },
+    {
+      "word": "Accurate",
+      "phonetic": "/'ækjərət/",
+      "type": "a",
+      "meaning": "Chính xác",
+      "example": "Make sure that you write clearly and that all the information is accurate."
+    },
+    {
+      "word": "Last",
+      "phonetic": "/lɑ:st/",
+      "type": "v",
+      "meaning": "Kéo dài",
+      "example": "The entire trip will last approximately four hours."
+    },
+    {
+      "word": "Note",
+      "phonetic": "/noʊt/",
+      "type": "v",
+      "meaning": "Chú ý, lưu ý",
+      "example": "Please note that we will not be able to accept anything submitted after that date."
+    },
+    {
+      "word": "Refreshments",
+      "phonetic": "/rɪ'freʃmənts/",
+      "type": "n",
+      "meaning": "Đồ ăn uống",
+      "example": "There will be light refreshments, music, and door prizes all day long."
+    },
+    {
+      "word": "Remind",
+      "phonetic": "/rɪ'maɪnd/",
+      "type": "v",
+      "meaning": "Nhắc nhở",
+      "example": "Let me remind you that flash photography is not allowed in the gallery."
+    },
+    {
+      "word": "Advertisement",
+      "phonetic": "/ædvər'taɪzmənt/",
+      "type": "n",
+      "meaning": "Quảng cáo",
+      "example": "If you tell us you heard this radio advertisement you'll receive ten percent off your visit!"
+    },
+    {
+      "word": "Construction",
+      "phonetic": "/kən'strʌkʃn/",
+      "type": "n",
+      "meaning": "Sự xây dựng, thi công",
+      "example": "Construction of the Jameson Building took much longer than expected."
+    },
+    {
+      "word": "Share",
+      "phonetic": "/ʃɛr/",
+      "type": "v, n",
+      "meaning": "Chia sẻ, cổ phiếu",
+      "example": "Mr. Bellman will share tips from his new book, organize and be productive."
+    },
+    {
+      "word": "Discuss",
+      "phonetic": "/dɪ'skʌs/",
+      "type": "v",
+      "meaning": "Thảo luận",
+      "example": "Then the only thing left to discuss is the rent."
+    },
+    {
+      "word": "Outdated",
+      "phonetic": "/ˌaʊt'deɪtɪd/",
+      "type": "a",
+      "meaning": "Lỗi thời",
+      "example": "Don't wasted time with outdated equipment."
+    },
+    {
+      "word": "Highlight",
+      "phonetic": "/'haɪlaɪt/",
+      "type": "v",
+      "meaning": "Làm nổi bật",
+      "example": "We now have a short video of movie clips for you, highlighting some of Rebecca's best-known pieces."
+    },
+    {
+      "word": "Prestigious",
+      "phonetic": "/prɛ'stɪdʒəs/",
+      "type": "a",
+      "meaning": "Danh giá, uy tín",
+      "example": "I will lead you through your visit to one of the country's oldest and most prestigious museums."
+    },
+    {
+      "word": "Mark",
+      "phonetic": "/mɑ:rk/",
+      "type": "v",
+      "meaning": "Đánh dấu",
+      "example": "Today marks the twenty-fifth anniversary of Dave's joining the company."
+    },
+    {
+      "word": "Enthusiastic",
+      "phonetic": "/ɪnˌθu:zi'æstɪk/",
+      "type": "a",
+      "meaning": "Nhiệt tình, hăng hái",
+      "example": "We're looking for enthusiastic, talented individuals to join us our professional radio staff."
+    },
+    {
+      "word": "Recognize",
+      "phonetic": "/'rɛkəgnaɪz/",
+      "type": "v",
+      "meaning": "Công nhận, ghi nhận",
+      "example": "We are here to recognize and thank Dr. James Roland for his contributed to our university."
+    },
+    {
+      "word": "Concern",
+      "phonetic": "/kən'sɜ:rn/",
+      "type": "n",
+      "meaning": "Quan tâm, lo lắng",
+      "example": "Our only concern is that the company logo on the front cover is not clearly visible."
+    },
+    {
+      "word": "Task",
+      "phonetic": "/tæsk/",
+      "type": "n",
+      "meaning": "Nhiệm vụ, công việc",
+      "example": "As you can imagine, their task was not an easy one."
+    },
+    {
+      "word": "Attention",
+      "phonetic": "/ə'tɛnʃn/",
+      "type": "n",
+      "meaning": "Chú ý",
+      "example": "I'd like to direct your attention to the list of attractions we're going to see today."
+    },
+    {
+      "word": "Practical",
+      "phonetic": "/'præktɪkl/",
+      "type": "a",
+      "meaning": "Thực tế",
+      "example": "You will learn a lot about the hiring process and gain some practical experience."
+    },
+    {
+      "word": "Smoothly",
+      "phonetic": "/'smu:ðli/",
+      "type": "adv",
+      "meaning": "Thông suốt, suôn sẻ",
+      "example": "Traffic is moving smoothly on most major roadways"
+    },
+    {
+      "word": "Get back to",
+      "phonetic": null,
+      "type": null,
+      "meaning": "Gọi điện lại",
+      "example": "I'll be out of the office until 1:30 so could you get back to me after that?"
+    }    
+  ]
+}
+

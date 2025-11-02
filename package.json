@@ -1,0 +1,8 @@
+{
+  "name": "vocabulary-flashcards",
+  "version": "1.0.0",
+  "description": "Simple flashcard app (React via CDN). Open index.html directly.",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser (no build required)'"
+  }
+}
